@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(182, 182, 224);
+    margin: auto;
+}
+.bg{
+   margin-top: 120px;
+}
+.login-box{
+    border: 1px solid black;
+    max-width: 50%;
+    margin: auto;
+    height: auto;
+    padding: 20px 30px;
+    border-radius: 10px;
+    align-self: center;
+    text-align: center;
+}
+.login-form input{
+    border-radius: 5px;
+    width: 200px;
+    margin-bottom: 25px;
+    padding: 3px 6px;
+    color: black;
+    border:  none;
+}
+.login-form >p> a{
+    margin-bottom: 25px;
+    text-decoration: none;
+}

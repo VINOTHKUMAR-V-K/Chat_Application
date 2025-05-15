@@ -1,0 +1,36 @@
+.message-container {
+  height: 300px;
+  overflow-y: scroll;
+  border: 3px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+.sent {
+  text-align: right;
+  color: blue;
+  margin-bottom: 15px;
+}
+.input-box{
+  border-radius: 5px;
+  width: 60%;
+  padding: 5px 10px;
+}
+.received {
+  text-align: left;
+  color: green;
+
+}
+.input-button{
+  padding: 5px 10px;
+}
+input {
+  width: calc(100% - 80px);
+  padding: 10px;
+}
+
+button {
+  padding: 10px;
+  width: 60px;
+}
